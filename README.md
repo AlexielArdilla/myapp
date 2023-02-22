@@ -13,7 +13,8 @@
 ## `Bloques temáticos:`
 
 - [**Extensiones y recomendaciones**](#item1)
-- [**homework**](#item2)
+- [**Instalación de dependencias**](#item2)
+- [**homework**](#item3)
 
 ---
 
@@ -80,6 +81,25 @@ Para habilitar simplemente debes buscar en el apartado de extensiones "Auto clos
 ---
 
 <a id="item2"></a>
+
+## `Instalación de dependencias`
+
+Para trabajar en este proyecto vamos a tener que realizar la instalación de las dependencias, es decir, generar la carpeta "node_modules".
+
+Para esto nos vamos a posicionar en nuestra terminal en el directorio `myapp`, ahí mismo es donde se encuentra nuestro `package.json`.
+Una vez posicionados vamos a ejecutar el siguiente comando:
+
+```
+npm install
+```
+
+Al terminar la instalación ya podemos trabajar en la tarea.
+
+---
+
+---
+
+<a id="item3"></a>
 
 ### `Homework`
 
