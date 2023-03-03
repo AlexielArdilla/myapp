@@ -103,10 +103,8 @@ Al terminar la instalación ya podemos trabajar en la tarea.
 
 ### `Homework`
 
-Con lo visto en clase será suficiente para realizar el siguiente ejercicio.
-
 `Ejercicio React`
 
-- Vamos a crear una ficha de una selección de básquet que consiste en un `h1` con el nombre de la selección y luego etiquetas `<p>` o `<span>` con información de posición, partidos jugados, y tipo de liga. Los datos son a elección y ficticios. <br>
-  Para lograrlo vamos a crear un componente ‘Equipo’ que incorpore esos elementos e ingresamos los datos de ejemplo. <br>
-  Ese componente lo inyectamos en App
+- Crear un componente llamado `Equipo`
+
+- El componente estará compuesto por un título `h1` con el nombre de una selección de básquet. También tendrá algunos datos extras que los pueden encerrar en etiquetas `<p>`. Algunos ejemplos: `"Posición, Partidos jugados, Ligas, etc".`
