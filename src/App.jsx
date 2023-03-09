@@ -1,10 +1,11 @@
-
+import React from 'react';
 import './App.css';
+import Equipo from './Equipo';
 
 function App() {
   return (
     <div className="App">
-      <h1>Cambiar este h1 por el componente "Equipo"</h1>
+      <Equipo/>
     </div>
   );
 }
